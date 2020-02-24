@@ -1,0 +1,85 @@
+.container{
+    margin-bottom: 100px;
+
+}
+.nav-link{
+    font-size: 20px;
+    
+}
+.white-bg{
+    background-color: white;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-indicators li{
+    background-color: gray;
+}
+.carousel-indicators .active{
+    background-image: linear-gradient(to left,#FFD019 0%,#FF9C35 100%);
+}
+.buy-now-button{
+    background-color: #000;
+    color: white;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.more{
+    color: #FF9C35;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 20px;
+}
+.card-footer{
+    text-align: center;
+    border-top: none;
+    background-color: white;
+}
+.line{
+    text-align: center;
+}
+hr.line{
+    border: 3px solid #FF9C35;
+    border-radius: 5px;
+    width: 8%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.cat-text{
+    text-align: center;
+}
+.bag{
+    box-shadow: 5px 5px 10px lightgrey ;
+    padding: 30px;
+    border: none;
+    border-radius: 0px 10px 0px 10px;
+}
+.beauty, .shoes{
+    box-shadow: 5px 5px 10px lightgrey ;
+    padding: 30px;
+    border: none;
+    border-radius: 10px 0px 10px 0px;
+}
+.pale img{
+    width: 100%;
+}
+.col-md-3{
+    margin-right: 100px;
+}
+#contact-us h6{
+    color: gray;
+
+}
+footer{
+    text-align: center;
+    color: gray ;
+}
